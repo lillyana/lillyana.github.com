@@ -1,0 +1,362 @@
+.Body {
+    color: rgb(236, 114, 0);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: rgb(255, 255, 255);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 62px;
+    margin-bottom: 0px;
+    margin-left: 23px;
+    margin-right: 153px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal_External_645_61 {
+    position: relative;
+}
+.Normal_External_580_26 {
+    position: relative;
+}
+.Normal_External_580_42 {
+    position: relative;
+}
+.Normal {
+    padding: 0px;
+}
+.Title {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style {
+    padding: 0px;
+}
+.style_External_645_61 {
+    position: relative;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget4 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget10 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget4 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#id2 canvas {
+    z-index: -1;
+}
+#widget0 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget8 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget7 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget8 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget9 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget3 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget10 .Comment_Posted_Date {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget10 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget5 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget8 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget7 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget9 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget6 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget6 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget4 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget6 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#widget7 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget9 .Comment_Posted_Date {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget5 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget5 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget3 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+#id2 div.caption {
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-indent: 0px;
+    white-space: nowrap;
+}
+#widget10 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget9 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#id2 div.caption span.metric {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 13px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#id2 div.caption span.title {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget3 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

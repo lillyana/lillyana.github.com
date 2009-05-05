@@ -1,0 +1,355 @@
+.Body {
+    color: rgb(236, 114, 0);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Color {
+    color: rgb(236, 114, 0);
+    line-height: 22px;
+    opacity: 1.00;
+}
+.Header {
+    color: rgb(255, 255, 255);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 62px;
+    margin-bottom: 0px;
+    margin-left: 23px;
+    margin-right: 153px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal_External_645_61 {
+    position: relative;
+}
+.style {
+    padding: 0px;
+}
+.style_External_645_61 {
+    position: relative;
+}
+.Normal_External_322_26 {
+    position: relative;
+}
+.style_SkipStroke {
+    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Normal_External_322_107 {
+    position: relative;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Normal {
+    padding: 0px;
+}
+.Summary_Archive {
+    color: rgb(4, 29, 170);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.Title {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_description_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_319_29 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+a.class1 {
+    color: rgb(75, 41, 21);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget1 .Summary_Body {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget0 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget1 .Summary_Read_More {
+    color: rgb(236, 114, 0);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget1 .Summary_Date {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget1 .Summary_Separator {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget1 .Summary_Comment {
+    color: rgb(236, 114, 0);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget1 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
+#widget1 .Summary_Title {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget1 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

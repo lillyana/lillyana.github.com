@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Min blogg</title>
+    <link>http://www.lillyana.se/lillyana.se/Min_blogg</link>
+    <description>H&#xE4;r bloggar jag om barn och inredning, inte alltid f&#xF6;rknippat med varandra :-)</description>
+    <item>
+      <title>Lansering</title>
+      <link>http://www.lillyana.se/lillyana.se/Min_blogg/Entries/2009/4/13_Lansering.html</link>
+      <guid isPermaLink="false">335baebf-5a38-4787-9161-76d8e3567668</guid>
+      <pubDate>Mon, 13 Apr 2009 15:12:51 +0200</pubDate>
+      <description>Nu &#xE4;ntligen har jag f&#xE5;tt upp min hemsida och startat min blogg. Min tanke &#xE4;r att jag ska skriva och dela med mig om olika id&#xE9;er som jag f&#xE5;r kring inredning i barnrum. &lt;br/&gt;&lt;br/&gt;Mitt senaste projekt &#xE4;r p&#xE5; min dotters f&#xF6;rskola. D&#xE4;r har jag nu m&#xE5;lat klart &#x201C;borgenrummet&#x201D; som ni kan se &lt;a href="../Projekt/Pages/Borgenrummet.html"&gt;bilder&lt;/a&gt; fr&#xE5;n under &lt;a href="../Projekt/Projekt.html"&gt;mina projekt&lt;/a&gt;. Tanken &#xE4;r att jag &#xE4;ven ska sy lite nya kuddar och &#xE4;ven inreda med lite andra sm&#xE5; detaljer, bland annat en lampa som ser ut som en fackla, att ha p&#xE5; muren.&lt;br/&gt;&lt;br/&gt;Annars h&#xE5;ller jag p&#xE5; att planera om mina d&#xF6;ttrars rum. Tanken &#xE4;r att de ska f&#xE5; ha det lilla rummet som gemensamt sovrum och det lite st&#xF6;rre rummet som lekrum. Maja (min &#xE4;ldsta dotter) sa h&#xE4;romdagen att hon ville ha kaniner m&#xE5;lade p&#xE5; v&#xE4;ggen i sovrummet och krokodiler i lekrummet. Ska fundera p&#xE5; det :-) Annars har jag eventuellt t&#xE4;nkt att bygga ett litet loft i lekrummet, som en extra lekyta.&lt;br/&gt;&lt;br/&gt;V&#xE4;lkommen till min sida och min blogg!</description>
+      <iweb:image href="Media/object000.jpg"></iweb:image>
+      <iweb:comment link="http://www.lillyana.se/lillyana.se/Min_blogg/Entries/2009/4/13_Lansering.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.lillyana.se/lillyana.se/Min_blogg</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

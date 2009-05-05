@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Min blogg</title>
+    <link>http://www.lillyana.se/lillyana.se/Min_blogg</link>
+    <description>H&#xE4;r bloggar jag om barn och inredning, inte alltid f&#xF6;rknippat med varandra :-)</description>
+    <item>
+      <title>Lansering</title>
+      <link>http://www.lillyana.se/lillyana.se/Min_blogg/Entries/2009/4/13_Lansering.html</link>
+      <guid isPermaLink="false">335baebf-5a38-4787-9161-76d8e3567668</guid>
+      <pubDate>Mon, 13 Apr 2009 15:12:51 +0200</pubDate>
+      <iweb:comment link="http://www.lillyana.se/lillyana.se/Min_blogg/Entries/2009/4/13_Lansering.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.lillyana.se/lillyana.se/Min_blogg</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
