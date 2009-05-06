@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6B830BF6-6893-4B2D-90B8-C4BF5A268131">
+  <lastEdited clientType="local-build-20090506" date="2009-05-06 17:52:20 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Min Blogg</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Lansering_files/shapeimage_1.png" left="0px" top="0px" width="386px" height="285px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Nu &#xE4;ntligen har jag f&#xE5;tt upp min hemsida och startat min blogg. Min tanke &#xE4;r att jag ska skriva och dela med mig om olika id&#xE9;er som jag f&#xE5;r kring inredning i barnrum. &#xD;&#xD;Mitt senaste projekt &#xE4;r p&#xE5; min dotters f&#xF6;rskola. D&#xE4;r har jag nu m&#xE5;lat klart &#x201C;borgenrummet&#x201D; som ni kan se &lt;a href="perma://BLPageReference/BCC79A9B-0F33-411B-8DE2-23C7E5F5924E"&gt;bilder&lt;/a&gt; fr&#xE5;n under &lt;a href="perma://BLPageReference/AAF6C79A-4F16-4A2D-80A5-79FF797E2793"&gt;mina projekt&lt;/a&gt;. Tanken &#xE4;r att jag &#xE4;ven ska sy lite nya kuddar och &#xE4;ven inreda med lite andra sm&#xE5; detaljer, bland annat en lampa som ser ut som en fackla, att ha p&#xE5; muren.&#xD;&#xD;Annars h&#xE5;ller jag p&#xE5; att planera om mina d&#xF6;ttrars rum. Tanken &#xE4;r att de ska f&#xE5; ha det lilla rummet som gemensamt sovrum och det lite st&#xF6;rre rummet som lekrum. Maja (min &#xE4;ldsta dotter) sa h&#xE4;romdagen att hon ville ha kaniner m&#xE5;lade p&#xE5; v&#xE4;ggen i sovrummet och krokodiler i lekrummet. Ska fundera p&#xE5; det :-) Annars har jag eventuellt t&#xE4;nkt att bygga ett litet loft i lekrummet, som en extra lekyta.&#xD;&#xD;V&#xE4;lkommen till min sida och min blogg!</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lansering</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;ti 5 maj 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

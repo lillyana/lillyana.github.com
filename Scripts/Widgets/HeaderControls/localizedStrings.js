@@ -1,2 +1,2 @@
 
-(function(){var strings={};strings['Subscribe']='Subscribe';strings['Back to Index']='Back to Index';strings['Add Photo']='Add Photo';strings['Play Slideshow']='Play Slideshow';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();
+(function(){var strings={};strings['Subscribe']='Prenumerera';strings['Back to Index']='Tillbaka till index';strings['Add Photo']='Lägg till bild';strings['Play Slideshow']='Visa bildspel';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();

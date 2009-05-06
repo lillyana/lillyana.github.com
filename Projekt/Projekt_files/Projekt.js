@@ -1,7 +1,7 @@
-// Created by iWeb 3.0.1 local-build-20090504
+// Created by iWeb 3.0.1 local-build-20090506
 
 function createMediaStream_id2()
-{return IWCreateMediaCollection("http://www.lillyana.se/lillyana.se/Projekt/Projekt_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
+{return IWCreateMediaCollection("http://www.lillyana.se/lillyana.se/Projekt/Projekt_files/rss.xml",true,255,["Inga bilder än","%d bild","%d bilder"],["","%d klipp","%d klipp"]);}
 function initializeMediaStream_id2()
 {createMediaStream_id2().load('http://www.lillyana.se/lillyana.se/Projekt',function(imageStream)
 {var entryCount=imageStream.length;var headerView=widgets['widget9'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id2',{pageIndex:0}));});}
