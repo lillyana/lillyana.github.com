@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.1 local-build-20090507
+// Created by iWeb 3.0.1 local-build-20090512
 
 function createMediaStream_id2()
 {return IWCreateMediaCollection("http://www.lillyana.se/lillyana.se/Projekt/Projekt_files/rss.xml",true,255,["Inga bilder än","%d bild","%d bilder"],["","%d klipp","%d klipp"]);}
