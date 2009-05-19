@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6B830BF6-6893-4B2D-90B8-C4BF5A268131">
+  <lastEdited clientType="local-build-20090517" date="2009-05-17 21:12:36 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Min blogg</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Prinsessrum_files/shapeimage_1.png" left="0px" top="0px" width="380px" height="285px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jag har ganska k&#xF6;nsneutrala rum till mina tv&#xE5; sm&#xE5; tjejer. Men nu har jag best&#xE4;mt mig f&#xF6;r att g&#xF6;ra det lilla rummet, som ska bli ett gemensamt sovrum f&#xF6;r dom, i prinsesstema. Det tjejiga kommer v&#xE4;gas upp av att lekrummet antagligen f&#xE5;r bondg&#xE5;rd som tema. Jag gillar arbeta med teman, det skapar en helhetsk&#xE4;nsla. Men jag tycker absolut att det f&#xE5;r finnas saker som bryter av, det skapar personlighet.&#xD;&#xD;F&#xF6;rst hade jag t&#xE4;nkt m&#xE5;la om de turkosa v&#xE4;ggarna rosa, men jag har kommit fram till att turkos passar bra. Det finns andra saker som definierar ett prinsessrum:&#xD;&#xD;	-	en gammal kista k&#xF6;pt p&#xE5; &lt;a href="http://www.blocket.se"&gt;blocket.se&lt;/a&gt; som jag ska vitlasera och kl&#xE4; med vitt sat&#xE4;ngtyg p&#xE5; insidan. D&#xE4;r ska tjejerna f&#xE5; ha alla sina b&#xF6;cker. F&#xF6;r att de inte ska kl&#xE4;mma fingrarna s&#xE5; har jag t&#xE4;nkt spika i ett par m&#xF6;beltassar, s&#xE5; att locket inte g&#xE5;r igen helt (hoppas bara att inte tr&#xE4;et spricker).&#xD;	-	en gammal spegel med guldram, d&#xE4;r jag ska m&#xE5;la en guldf&#xE4;rgad krona ovanf&#xF6;r, vilket de &#xE4;ven gjorde i &lt;a href="http://hemmakanalen.se/1.951306/2009/04/07/inkopslista_karins_prinsessrum"&gt;&#xC4;ntligen Hemma&lt;/a&gt;, d&#xE4;r de har ytterligare tips f&#xF6;r ett prinsessrum.&#xD;	-	m&#xE5;nga kuddar i olika storlekar och tyger, att ha i s&#xE4;ngarna. Dels sy sj&#xE4;lv fr&#xE5;n tyger som jag k&#xF6;pt p&#xE5; &lt;a href="http://www.tyg.se/"&gt;tyg.se&lt;/a&gt; och &lt;a href="http://www.stoffochstil.se/"&gt;Stoff &amp; Stil&lt;/a&gt; (bilden visar ett av tygerna). Men jag hade &#xE4;ven t&#xE4;nkt k&#xF6;pa p&#xE5; &#xC5;hlens och Indiska, de har mycket att v&#xE4;lja p&#xE5; till bra priser.&#xD;	-	en filt eller &#xF6;verkast med sidenk&#xE4;nsla.&#xD;	-	en b&#xF6;ljande l&#xE5;ng gardin i vit spets. F&#xF6;rst hade jag t&#xE4;nkt ha en tung, m&#xF6;rk gardin i velour (sammetsk&#xE4;nsla), men jag kom fram till att det inte passade tv&#xE5; sm&#xE5; tjejer p&#xE5; 1 och 3 &#xE5;r.&#xD;	-	vita tavellister att st&#xE4;lla upp b&#xF6;cker p&#xE5; med fina omslag, men &#xE4;ven f&#xF6;r sm&#xE5; &#x201D;prinsessdetaljer&#x201D; s&#xE5;som sm&#xE5; grodor med prinskronor.&#xD;	-	fina gamla krokar d&#xE4;r jag kan h&#xE4;nga upp tjejernas finaste kl&#xE4;nningar, p&#xE5; vadderade sidengalgar.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Prinsessrum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;s&#xF6; 17 maj 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>
