@@ -64,19 +64,16 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style {
-    padding: 0px;
-}
-.paragraph_style {
+.paragraph_style_1 {
     color: rgb(109, 71, 34);
-    font-family: 'LucidaGrande', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -89,11 +86,71 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
-    padding: 0px;
+.paragraph_style_2 {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
-.style_2 {
-    line-height: 14px;
+.paragraph_style_3 {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(109, 71, 34);
+    font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
 }
 .style_SkipStroke {
     background: transparent url(Kids_green_header_02.png) repeat scroll top left;
@@ -119,6 +176,31 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_1 {
+    padding: 0px;
+}
+.paragraph_style_5 {
+    color: rgb(4, 29, 170);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
 .style_SkipStroke_6 {
     background: transparent;
     opacity: 1.00;
@@ -129,8 +211,55 @@
 .style_External_307_15 {
     position: relative;
 }
+.paragraph_style_6 {
+    color: rgb(4, 29, 170);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
 .style_External_645_61 {
     position: relative;
+}
+.style {
+    padding: 0px;
+}
+.paragraph_style {
+    color: rgb(255, 255, 255);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 62px;
+    margin-bottom: 0px;
+    margin-left: 23px;
+    margin-right: 153px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .Next {
     color: rgb(4, 29, 170);
@@ -154,19 +283,19 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.Normal_External_645_61 {
+.Normal {
+    padding: 0px;
+}
+.Normal_External_606_28 {
     position: relative;
 }
-.Normal_External_606_570 {
+.Normal_External_606_582 {
     position: relative;
 }
 .Normal_External_606_18 {
     position: relative;
 }
-.Normal {
-    padding: 0px;
-}
-.Normal_External_606_28 {
+.Normal_External_645_61 {
     position: relative;
 }
 .Previous {
@@ -236,11 +365,11 @@
 .graphic_textbox_layout_style_default_External_307_15 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_291_15 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_291_15 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;

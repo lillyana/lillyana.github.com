@@ -264,17 +264,17 @@
 .Normal_External_606_28 {
     position: relative;
 }
-.Normal {
-    padding: 0px;
-}
 .Normal_External_645_61 {
+    position: relative;
+}
+.Normal_External_606_215 {
     position: relative;
 }
 .Normal_External_606_18 {
     position: relative;
 }
-.Normal_External_606_388 {
-    position: relative;
+.Normal {
+    padding: 0px;
 }
 .Previous {
     color: rgb(4, 29, 170);
@@ -343,11 +343,11 @@
 .graphic_textbox_layout_style_default_External_291_15 {
     position: relative;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
 .graphic_textbox_layout_style_default_External_307_15 {
     position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;

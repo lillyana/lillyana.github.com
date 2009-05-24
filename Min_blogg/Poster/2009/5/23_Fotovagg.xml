@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6B830BF6-6893-4B2D-90B8-C4BF5A268131">
+  <lastEdited clientType="local-build-20090524" date="2009-05-24 20:12:34 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Min blogg</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Fotovagg_files/shapeimage_1.png" left="0px" top="0px" width="386px" height="285px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Har precis f&#xE5;tt klart v&#xE5;r fotov&#xE4;gg! Har du n&#xE5;gon tom v&#xE4;gg n&#xE5;gonstans s&#xE5; vill jag rekommendera dig att s&#xE4;tt upp svartvita f&#xF6;rstoringar av era barn. Det uppskattas av alla, inte minst av barnen sj&#xE4;lva. Mina tv&#xE5; sm&#xE5; d&#xF6;ttrar blir helt lyckliga varje g&#xE5;ng de kommer in i vardagsrummet och ser sig sj&#xE4;lva. Anna, min minsta tjej, tycker b&#xE4;st om fotot med hennes gosedjurshund, hon brukar st&#xE4;lla sig i soffan och tjuta och peka p&#xE5; den.&#xD;&#xD;Maja och Anna sover numera i samma rum, andra natten i natt. B&#xE5;da tycker det &#xE4;r supermysigt! Maja somnade f&#xF6;rst i kv&#xE4;ll, och flera g&#xE5;nger innan Anna somnade s&#xE5; st&#xE4;llde hon sig upp och pekade p&#xE5; Maja och ropade titta! Hon verkar tycka att det &#xE4;r v&#xE4;ldigt sp&#xE4;nnande och roligt att storasyster sover i samma rum. </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Fotov&#xE4;gg</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;l&#xF6; 23 maj 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>
