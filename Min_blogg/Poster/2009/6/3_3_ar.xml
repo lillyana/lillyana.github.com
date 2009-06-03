@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6B830BF6-6893-4B2D-90B8-C4BF5A268131">
+  <lastEdited clientType="local-build-20090603" date="2009-06-03 23:40:14 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Min blogg</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_3_ar_files/shapeimage_1.png" left="0px" top="0px" width="386px" height="270px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idag fyllde min &#xE4;ldsta dotter 3 &#xE5;r! Har firat henne hela dagen. B&#xF6;rjade med presenter i s&#xE4;ngen: 2 b&#xF6;cker, Mamma Mu-filmen och ett par blommiga sneakers som jag k&#xF6;pt p&#xE5; &lt;a href="http://www.tradera.com"&gt;tradera.com&lt;/a&gt;. N&#xE4;r hon &#xF6;ppnade d&#xF6;rren till lekrummet s&#xE5; var hela golvet t&#xE4;ckt av ballonger som jag och min man bl&#xE5;st upp kv&#xE4;llen innan. Det uppskattades av b&#xE5;da barnen! P&#xE5; dagis blev hon ocks&#xE5; firad och efter att jag h&#xE4;mtat henne vid halv 2 gick vi till caf&#xE9;et som ligger p&#xE5; v&#xE4;gen hem. Hemma v&#xE4;ntade en &#xF6;verraskning p&#xE5; altanen, en trehjuling! Den trehjuling som jag fick n&#xE4;r jag fyllde 3 &#xE5;r. Lite lagom sliten, men hon gillar den :-)&#xD;&#xD;Klockan 5 kom hela familjen: mormor, farmor och farfar, alla mostrar, faster och kusinerna. Det betydde &#xE4;nnu mer presenter, god mat och &lt;a href="http://www.arla.se/Default____17653.aspx?RecipeID=15373"&gt;pannkakst&#xE5;rta&lt;/a&gt;, Pippi L&#xE5;ngstrump t&#xE5;rta. Gjorde Arlas recept, j&#xE4;ttegott!&#xD;&#xD;Hade barnkalas i l&#xF6;rdags f&#xF6;r n&#xE5;gra dagiskompisar och n&#xE5;gra barn som vi tr&#xE4;ffat p&#xE5; &#xF6;ppna f&#xF6;rskolan. Barn, syskon och f&#xF6;r&#xE4;ldrar var bjudna. Det var superfint v&#xE4;der s&#xE5; vi hade &#x201D;poolparty&#x201D; i tr&#xE4;dg&#xE5;rden. Blev j&#xE4;ttetrevligt och lagom avslappnat. &#xD;&#xD;TIPS!&#xD;Ist&#xE4;llet f&#xF6;r t&#xE5;rta p&#xE5; kalaset gjorde jag lite olika muffins, som jag dekorerade som amerikanska cupcakes, med glasyr, gr&#xE4;dde och olika sorters str&#xF6;ssel. Hade k&#xF6;pt j&#xE4;ttes&#xF6;ta muffinsformar p&#xE5; &#xC5;hlens, rosa med vita prickar. Det blev uppskattat! &#xD;&#xD;Muffins ser fint ut, &#xE4;r l&#xE4;tt, snabbt och kul att g&#xF6;ra. De &#xE4;r lagom stora portioner, f&#xF6;r barnen, m&#xE5;nga f&#xF6;r&#xE4;ldrar &#xE5;t flera stycken :-). Man slipper disk eller papperstallrikar, hade bara servetter till. Man beh&#xF6;ver inte sitta vid ett bord och &#xE4;ta, vilket &#xE4;r ett plus n&#xE4;r man &#xE4;r m&#xE5;nga och h&#xE4;lften av g&#xE4;sterna &#xE4;r barn. Kan verkligen rekommenderas!</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>3 &#xE5;r</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;on 3 jun 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>
