@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6B830BF6-6893-4B2D-90B8-C4BF5A268131">
+  <lastEdited clientType="local-build-20090720" date="2009-07-20 21:01:13 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Min blogg</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Tusen_och_en_natt_files/shapeimage_1.png" left="0px" top="0px" width="386px" height="285px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jag har lagt upp mina tv&#xE5; senaste &lt;a href="perma://BLPageReference/AAF6C79A-4F16-4A2D-80A5-79FF797E2793"&gt;projekt&lt;/a&gt; p&#xE5; hemsidan. Det ena &#xE4;r jag lite extra n&#xF6;jd med, ett rum som jag har valt att kalla &lt;a href="perma://BLPageReference/5E18C2AD-2AEC-4F90-AF79-492232C66093"&gt;Tusen och en natt.&lt;/a&gt; &#xD;&#xD;Jag fick i uppdrag att g&#xF6;ra om ett rum p&#xE5; den dagisavdelning som min yngsta dotter Anna ska b&#xF6;rja p&#xE5; till h&#xF6;sten. Rummet anv&#xE4;nds framf&#xF6;rallt till uppe-vilan med de &#xE4;ldre barnen. Rummet var knallgult fr&#xE5;n b&#xF6;rjan, inte direkt vilsamt! Personalen &#xF6;nskade ist&#xE4;llet ett m&#xF6;rkt rum, g&#xE4;rna i lila, med temat Tusen och en natt.&#xD;&#xD;Det blev ett v&#xE4;ldigt sp&#xE4;nnande projekt! Dels p.g.a. att det var f&#xF6;rsta g&#xE5;ngen jag k&#xE4;nde att det fanns f&#xE4;rdiga f&#xF6;rv&#xE4;ntningar p&#xE5; hur rummet skulle bli och upplevas, dels p.g.a. att lila &#xE4;r en sv&#xE5;r f&#xE4;rg. Ett rum helt i lila, hur blir det egentligen?!&#xD;&#xD;Svar: det blir superl&#xE4;ckert! om jag f&#xE5;r s&#xE4;ga det sj&#xE4;lv :-)&#xD;&#xD;Rummet blev precis som jag hade f&#xF6;rest&#xE4;llt mig. Det k&#xE4;nns som om man stiger in i en annan v&#xE4;rld. Jag har dels anv&#xE4;nt mig av en m&#xF6;rkt lila f&#xE4;rg p&#xE5; v&#xE4;ggarna f&#xF6;r att f&#xE5; en d&#xE4;mpad st&#xE4;mning, men f&#xF6;r att l&#xE4;tta upp de lite s&#xE5; har jag &#xE4;ven anv&#xE4;nt en ljusare lila. En orientalisk k&#xE4;nsla har jag skapat m.h.a. guldf&#xE4;rgade detaljer. Slottet &#xE4;r m&#xE5;lat i en bl&#xE5;-lila ton och f&#xF6;nstren och m&#xE5;nen i en riktigt ljusgul f&#xE4;rg som ger intryck av att det lyser. Personalen p&#xE5; dagiset blev v&#xE4;ldigt n&#xF6;jda :-)&#xD;&#xD;Nu &#xE4;r jag riktigt sugen p&#xE5; nya utmaningar!</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tusen och en natt</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;m&#xE5; 20 jul 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>
