@@ -42,16 +42,82 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_226_791 {
+.Normal_External_328_32 {
+    position: relative;
+}
+.Normal_External_385_332 {
     position: relative;
 }
 .Normal {
     padding: 0px;
 }
-.style_External_645_61 {
+.Normal_External_645_61 {
     position: relative;
 }
-.paragraph_style_7 {
+.Normal_External_385_282 {
+    position: relative;
+}
+.Sidebar_Body {
+    color: rgb(255, 255, 255);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(255, 255, 255);
+    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke {
+    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent url(Playtime_hills_05.jpg) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent url(Playtime_blue_hills_05.jpg) repeat scroll top left;
+    opacity: 1.00;
+}
+.paragraph_style_4 {
     color: rgb(109, 71, 34);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
     font-size: 20px;
@@ -77,10 +143,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.Normal_External_385_305 {
-    position: relative;
-}
-.paragraph_style_8 {
+.paragraph_style_5 {
     color: rgb(109, 71, 34);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
     font-size: 16px;
@@ -102,7 +165,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_9 {
+.style_External_385_282 {
+    position: relative;
+}
+.paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
     font-size: 14px;
@@ -128,42 +194,39 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_385_332 {
+    position: relative;
+}
 .style_External_328_32 {
     position: relative;
 }
-.Normal_External_385_359 {
+.style_External_226_763 {
     position: relative;
 }
-.Normal_External_645_61 {
-    position: relative;
-}
-.Normal_External_328_32 {
-    position: relative;
-}
-.style_External_385_305 {
-    position: relative;
-}
-.paragraph_style_4 {
-    color: rgb(255, 42, 33);
+.Sidebar_Title {
+    color: rgb(109, 71, 34);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 18px;
+    font-size: 13px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 20px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_645_61 {
+    position: relative;
 }
 .style_1 {
     padding: 30px;
@@ -241,135 +304,6 @@
 .style_2 {
     padding: 20px;
 }
-.style_SkipStroke {
-    background: transparent url(Kids_green_header_02.png) repeat scroll top left;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent url(Playtime_hills_05.jpg) repeat scroll top left;
-    opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: rgb(255, 255, 255);
-    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 21px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 5px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(255, 42, 33);
-    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 23px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 5px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_External_385_359 {
-    position: relative;
-}
-.paragraph_style_6 {
-    color: rgb(109, 71, 34);
-    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 21px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 5px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_3 {
-    background: transparent url(Playtime_blue_hills_05.jpg) repeat scroll top left;
-    opacity: 1.00;
-}
-.Sidebar_Body {
-    color: rgb(255, 255, 255);
-    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.Sidebar_Title {
-    color: rgb(109, 71, 34);
-    font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .Title {
     color: rgb(109, 71, 34);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
@@ -408,13 +342,13 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_226_791 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_140_68 {
+.graphic_textbox_layout_style_default_External_226_763 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_140_94 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
