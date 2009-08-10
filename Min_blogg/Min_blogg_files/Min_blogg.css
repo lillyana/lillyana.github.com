@@ -267,6 +267,14 @@ a:hover {
     color: rgb(109, 71, 34);
     text-decoration: underline;
 }
+#widget2 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
+}
+#widget2 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
 #widget1 .Summary_Comment {
     color: rgb(236, 114, 0);
     font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;
@@ -304,6 +312,10 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
+}
+#widget2 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
 }
 .spacer {
     font-size: 1px;
