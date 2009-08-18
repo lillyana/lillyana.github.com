@@ -3,7 +3,14 @@
   <channel>
     <title>Min blogg</title>
     <link>http://www.lillyana.se/lillyana.se/Min_blogg</link>
-    <description>H&#xE4;r bloggar jag om barn och inredning, inte alltid f&#xF6;rknippat med varandra :-)</description>
+    <description>H&#xE4;r delar jag framf&#xF6;rallt med mig av mina egna id&#xE9;er kring inredning f&#xF6;r barn. </description>
+    <item>
+      <title>Sagorum</title>
+      <link>http://www.lillyana.se/lillyana.se/Min_blogg/Poster/2009/8/18_Sagorum.html</link>
+      <guid isPermaLink="false">fd91589b-2bbe-44bb-907e-36326bd56225</guid>
+      <pubDate>Tue, 18 Aug 2009 21:29:20 +0200</pubDate>
+      <iweb:comment link="http://www.lillyana.se/lillyana.se/Min_blogg/Poster/2009/8/18_Sagorum.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
     <item>
       <title>Asiatiskt rum</title>
       <link>http://www.lillyana.se/lillyana.se/Min_blogg/Poster/2009/8/10_Asiatiskt_rum.html</link>
