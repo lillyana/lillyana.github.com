@@ -161,16 +161,16 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal {
-    padding: 0px;
-}
 .Normal_External_586_28 {
     position: relative;
 }
-.Normal_External_645_67 {
-    position: relative;
+.Normal {
+    padding: 0px;
 }
 .Normal_External_643_195 {
+    position: relative;
+}
+.Normal_External_645_67 {
     position: relative;
 }
 .Title {
@@ -211,11 +211,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.image_cluster_layout_style_default_External_0_0 {
-    position: relative;
-}
 .image_cluster_layout_style_default {
     padding: 0px;
+}
+.image_cluster_layout_style_default_External_176_24 {
+    position: relative;
 }
 a {
     color: rgb(109, 71, 34);

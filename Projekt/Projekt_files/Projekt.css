@@ -181,6 +181,10 @@ a:hover {
     color: rgb(38, 56, 60);
     text-decoration: none;
 }
+#widget13 a:visited {
+    color: rgb(38, 56, 60);
+    text-decoration: none;
+}
 #widget5 a:visited {
     color: rgb(38, 56, 60);
     text-decoration: none;
@@ -254,7 +258,7 @@ a:hover {
     color: rgb(196, 95, 28);
     text-decoration: none;
 }
-#widget11 .Comment_Posted_Date {
+#widget13 .Comment_Posted_Date {
     color: rgb(109, 71, 34);
     font-family: 'Chalkboard-Bold', 'Chalkboard', 'Comic Sans MS', sans-serif;
     font-size: 10px;
@@ -312,6 +316,10 @@ a:hover {
     color: rgb(109, 71, 34);
     text-decoration: underline;
 }
+#widget13 a:hover {
+    color: rgb(196, 95, 28);
+    text-decoration: none;
+}
 #widget9 a {
     color: rgb(109, 71, 34);
     text-decoration: underline;
@@ -329,6 +337,10 @@ a:hover {
     opacity: 1.00;
     text-decoration: none;
     text-transform: uppercase;
+}
+#widget13 a {
+    color: rgb(109, 71, 34);
+    text-decoration: underline;
 }
 #id2 div.caption span.title {
     color: rgb(109, 71, 34);

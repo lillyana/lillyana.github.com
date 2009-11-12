@@ -67,14 +67,14 @@
 .Normal_External_643_167 {
     position: relative;
 }
+.Normal_External_645_61 {
+    position: relative;
+}
 .Normal_External_586_26 {
     position: relative;
 }
 .Normal {
     padding: 0px;
-}
-.Normal_External_645_61 {
-    position: relative;
 }
 .Title {
     color: rgb(109, 71, 34);
@@ -116,7 +116,7 @@
 .style {
     padding: 0px;
 }
-.style_External_586_26 {
+.style_External_643_167 {
     position: relative;
 }
 .style_SkipStroke_3 {
@@ -138,7 +138,7 @@
     background: transparent url(Playtime_waves_05.jpg) repeat scroll top left;
     opacity: 1.00;
 }
-.style_External_643_167 {
+.style_External_586_26 {
     position: relative;
 }
 .graphic_image_style_default_SkipStroke {
@@ -148,7 +148,7 @@
 .image_cluster_layout_style_default {
     padding: 0px;
 }
-.image_cluster_layout_style_default_External_0_0 {
+.image_cluster_layout_style_default_External_176_26 {
     position: relative;
 }
 a {
